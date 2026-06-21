@@ -1005,3 +1005,6 @@ When the agent responds, you may see collapsible sections above the final answer
 ---
 
 *Built with [deepagents](https://pypi.org/project/deepagents/), [LangChain](https://python.langchain.com/), [LangGraph](https://langchain-ai.github.io/langgraph/), [Tavily](https://tavily.com/), and [Streamlit](https://streamlit.io/).*
+
+
+*Built with 💖 by BikashBIOS*
